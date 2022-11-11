@@ -1,2 +1,2 @@
 # Codeforces.py
-Solutions for few problems on Code Forces
+Solutions for problems on Code Forces
